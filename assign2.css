@@ -1,0 +1,74 @@
+
+
+.first{
+    width: 80%;
+    height: 100vh;
+    background: linear-gradient(rgba(212, 81, 241, 0.2), rgba(225, 42, 228, 0.4)), url(./asset/albert.jpg) ;
+    background-size: cover;
+    margin: auto;
+    padding-top: 80px;
+}
+
+
+
+    .forth{
+        width: 350px;
+        height: 500px;
+        background-color: white;
+        margin: auto;
+        padding-bottom: 20px;
+    }
+
+    .img-div{
+        width: 350px;
+        height: 200px;
+        background-color: purple;
+        text-align: center;
+        padding-top: 5px;
+    }
+   
+   .forthimg{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    box-shadow: 0px 0px 0px 5px white;
+    margin-top: 160px;
+   }
+   
+   .text{
+   margin: auto;
+    width: 250px;
+
+   }
+
+   .text h5{
+    margin-top: 80px;
+   }
+
+   .text h5,p,button,h3{
+    text-align: center;
+   }
+
+ .text-button{
+    text-align: center;
+    margin-top: 50px;
+ }
+
+ .text-button button{
+    padding: 10px 25px;
+    border-radius: 20px;
+    border: none;
+    background-color: purple;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+ }
+
+    .role{
+        color: pink;
+    }
+     
+
+
+
+

@@ -1,0 +1,45 @@
+
+
+.parent{
+    margin-left: 600px;
+    margin-top: 80px;
+    display: flex;
+    justify-content:center;
+    justify-content:space-around;
+    width: 500px;
+    height: 210px;
+    padding-top: 10px;
+    background-color: rgba(163, 169, 171, 0.893)
+}
+
+nav{
+    margin-left: 600px;
+    
+}
+ li{
+    
+    margin-left: 50px;
+    display: inline;
+}
+
+
+
+.first{
+    background-color: rgb(128, 146, 85);
+}
+
+
+.second{
+    background-color: rgb(117, 93, 63);
+}
+
+.third{
+    background-color: rgb(76, 52, 21);
+}
+.first,.second,.third{
+      text-align: center;
+      color: white;
+      width: 150px;
+      height: 200px;
+      
+}

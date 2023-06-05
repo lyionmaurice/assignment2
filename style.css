@@ -1,0 +1,99 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+
+
+
+
+
+h1 {
+      color: rgb(228, 221, 221);
+      background-color: rgb(7, 7, 7);
+      font-size: 60px;
+}
+
+#somto {
+
+    color: azure;
+    background-color: rgb(16, 16, 33);
+}
+ .nate{
+
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-style:oblique;
+ font-size:x-large;
+ font-weight:lighter; 
+ letter-spacing: 10px;
+ text-align: center;
+ text-overflow:ellipsis;
+ text-shadow: 2px 2px 2px red;
+ 
+ }
+ .chika,.emma,.chisom{
+
+    color: brown;
+    background-color: blanchedalmond ;
+ }
+
+
+
+ .fimg{
+
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    opacity: 0.5;
+ }
+
+ /* .fimg:hover{ */
+    width: 200px;
+    height: 200px;
+    transform: scale(1.5);
+   
+ }
+  .simg{ 
+
+
+
+  }
+
+
+.ddd{
+     width: 100%;
+     height: 100vh;
+     background-image: url(./asset/albert.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+
+
+}
+.divp{
+       width: 100%;
+       height: 500px;
+       background-color: rgb(114, 28, 53);
+      
+      
+}
+
+.divc{
+   width: 50%;
+   height: 250px;
+   background-color: rgb(193, 141, 0);
+
+  border-left:30px groove greenyellow;
+  border-right: 20px groove blue;
+  border-bottom: 125px groove rgb(255, 255, 88);
+  border-top:125px groove white ;
+
+}
+
+
+.contain{
+   width: 500px;
+   margin: auto;
+}
+
+
+

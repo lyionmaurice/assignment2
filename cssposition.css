@@ -1,0 +1,85 @@
+  .first{
+    width: 500px;
+    height: 500px;
+     background-color: rgb(210, 247, 247);
+
+
+  }
+
+
+  .second{
+    width: 300px;
+    height: 300px;
+      background-color: blueviolet;
+      position: relative;
+      left: 60px;
+      /* bottom: 40px; */
+
+  }
+
+  .third{
+
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+  }
+
+  .forth{
+
+        width:100px;
+        height:100px ;
+        background-color: blue;
+        position: absolute;
+        right: 5px;
+        bottom: 5px;
+
+    
+  }
+
+  .fifth{
+
+    width: 80%;
+    height: 20px;
+    background-color: rgb(8, 118, 118);
+    position: sticky;
+    top: 0px;
+  }
+
+
+
+.when,.now{
+      display: inline;
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    margin: 50px;
+  }
+
+  .inlinef,.inlineff {
+
+    display: block;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
